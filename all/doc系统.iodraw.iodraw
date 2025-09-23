@@ -21,8 +21,17 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="9E8DMuRqeJgXfGZOL2JJ-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9E8DMuRqeJgXfGZOL2JJ-3" target="9E8DMuRqeJgXfGZOL2JJ-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="9E8DMuRqeJgXfGZOL2JJ-3" value="abc文件夹/目录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="160" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9E8DMuRqeJgXfGZOL2JJ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9E8DMuRqeJgXfGZOL2JJ-4" target="9E8DMuRqeJgXfGZOL2JJ-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9E8DMuRqeJgXfGZOL2JJ-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9E8DMuRqeJgXfGZOL2JJ-4" target="9E8DMuRqeJgXfGZOL2JJ-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9E8DMuRqeJgXfGZOL2JJ-4" value="abc2文件夹" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="514" y="160" width="100" height="30" as="geometry" />
