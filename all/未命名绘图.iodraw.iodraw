@@ -44,7 +44,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UEs_ZSleUEMZM93m4Wfa-15" value="绝对路径：从目录顶部开始，形成一个路径&lt;div&gt;相对路径：从当前目录开始，形成一个路径&lt;/div&gt;&lt;div&gt;eg：需求：&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="294" y="500" width="120" height="60" as="geometry" />
+          <mxGeometry x="310" y="680" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
