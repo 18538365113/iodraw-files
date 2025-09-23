@@ -47,7 +47,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UEs_ZSleUEMZM93m4Wfa-15" value="绝对路径：从目录顶部开始，形成一个路径&lt;div&gt;相对路径：从当前目录开始，形成一个路径&lt;/div&gt;&lt;div&gt;eg：需求：从test01文件夹开始，访问hello.java文件&lt;/div&gt;&lt;div&gt;绝对路径：D:\abc2文件夹\test02文件夹\hello.java文件&lt;/div&gt;&lt;div&gt;相对路径：..\abc2文件夹\test02文件夹\hello.java文件&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFF4C3;" vertex="1" parent="1">
-          <mxGeometry x="120" y="550" width="360" height="90" as="geometry" />
+          <mxGeometry x="90" y="520" width="360" height="90" as="geometry" />
         </mxCell>
         <mxCell id="UEs_ZSleUEMZM93m4Wfa-16" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" target="UEs_ZSleUEMZM93m4Wfa-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
