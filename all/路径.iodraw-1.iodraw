@@ -1,0 +1,64 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="FiwC7x7Wkcw6gArYKbX2">
+    <mxGraphModel dx="2040" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="UEs_ZSleUEMZM93m4Wfa-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UEs_ZSleUEMZM93m4Wfa-1" target="UEs_ZSleUEMZM93m4Wfa-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UEs_ZSleUEMZM93m4Wfa-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UEs_ZSleUEMZM93m4Wfa-1" target="UEs_ZSleUEMZM93m4Wfa-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UEs_ZSleUEMZM93m4Wfa-1" value="D盘" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="350" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UEs_ZSleUEMZM93m4Wfa-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UEs_ZSleUEMZM93m4Wfa-3" target="UEs_ZSleUEMZM93m4Wfa-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UEs_ZSleUEMZM93m4Wfa-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UEs_ZSleUEMZM93m4Wfa-3" target="UEs_ZSleUEMZM93m4Wfa-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UEs_ZSleUEMZM93m4Wfa-3" value="abc2文件夹" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="540" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UEs_ZSleUEMZM93m4Wfa-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UEs_ZSleUEMZM93m4Wfa-4" target="UEs_ZSleUEMZM93m4Wfa-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UEs_ZSleUEMZM93m4Wfa-4" value="abc文件夹" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="150" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UEs_ZSleUEMZM93m4Wfa-5" value="test01文件夹" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="450" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UEs_ZSleUEMZM93m4Wfa-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UEs_ZSleUEMZM93m4Wfa-6" target="UEs_ZSleUEMZM93m4Wfa-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UEs_ZSleUEMZM93m4Wfa-6" value="test02文件夹" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UEs_ZSleUEMZM93m4Wfa-7" value="test02文件夹" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="250" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UEs_ZSleUEMZM93m4Wfa-8" value="test01文件夹" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="50" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UEs_ZSleUEMZM93m4Wfa-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.653;entryY=-0.028;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="UEs_ZSleUEMZM93m4Wfa-4" target="UEs_ZSleUEMZM93m4Wfa-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UEs_ZSleUEMZM93m4Wfa-15" value="绝对路径：从目录顶部开始，形成一个路径&lt;div&gt;相对路径：从当前目录开始，形成一个路径&lt;/div&gt;&lt;div&gt;eg：需求：从test01文件夹开始，访问hello.java文件&lt;/div&gt;&lt;div&gt;绝对路径：D:\abc2文件夹\test02文件夹\hello.java文件&lt;/div&gt;&lt;div&gt;相对路径：..\abc2文件夹\test02文件夹\hello.java文件&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFF4C3;" parent="1" vertex="1">
+          <mxGeometry x="90" y="520" width="360" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="UEs_ZSleUEMZM93m4Wfa-16" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" target="UEs_ZSleUEMZM93m4Wfa-8" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-10" y="360" as="sourcePoint" />
+            <mxPoint x="40" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UEs_ZSleUEMZM93m4Wfa-17" value="hello.java文件" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
