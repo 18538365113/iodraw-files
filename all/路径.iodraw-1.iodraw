@@ -10,7 +10,7 @@
         <mxCell id="UEs_ZSleUEMZM93m4Wfa-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UEs_ZSleUEMZM93m4Wfa-1" target="UEs_ZSleUEMZM93m4Wfa-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UEs_ZSleUEMZM93m4Wfa-1" value="D盘" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="UEs_ZSleUEMZM93m4Wfa-1" value="F盘" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UEs_ZSleUEMZM93m4Wfa-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UEs_ZSleUEMZM93m4Wfa-3" target="UEs_ZSleUEMZM93m4Wfa-5" edge="1">
