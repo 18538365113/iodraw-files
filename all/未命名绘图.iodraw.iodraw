@@ -7,7 +7,7 @@
         <mxCell id="nPxuYXjjofaONE-L8e39-1" value="计算机 -&amp;gt; 人" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;horizontal=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="260" width="270" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="nPxuYXjjofaONE-L8e39-2" value="内存-&amp;gt;大脑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nPxuYXjjofaONE-L8e39-2" value="内存-&amp;gt;大脑" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;strokeColor=#df1111;" vertex="1" parent="1">
           <mxGeometry x="172.5" y="320" width="165" height="100" as="geometry" />
         </mxCell>
       </root>
