@@ -8,7 +8,7 @@
           <mxGeometry x="680" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NW_FaFO-XW5nWKSAM91s-24" value="计算机-&amp;gt;人" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
-          <mxGeometry x="860" y="380" width="210" height="160" as="geometry" />
+          <mxGeometry x="860" y="380" width="210" height="220" as="geometry" />
         </mxCell>
         <mxCell id="NW_FaFO-XW5nWKSAM91s-25" value="内存-&amp;gt;大脑" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fontColor=#FF1269;strokeColor=#FF3672;" vertex="1" parent="1">
           <mxGeometry x="905" y="430" width="120" height="90" as="geometry" />
@@ -34,10 +34,10 @@
         <mxCell id="NW_FaFO-XW5nWKSAM91s-32" value="100" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="980" y="440" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="NW_FaFO-XW5nWKSAM91s-33" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="NW_FaFO-XW5nWKSAM91s-26" target="NW_FaFO-XW5nWKSAM91s-24">
+        <mxCell id="NW_FaFO-XW5nWKSAM91s-33" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="750" y="490" as="sourcePoint" />
-            <mxPoint x="800" y="440" as="targetPoint" />
+            <mxPoint x="689.1700000000001" y="445" as="sourcePoint" />
+            <mxPoint x="860" y="475" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NW_FaFO-XW5nWKSAM91s-34" value="对应" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NW_FaFO-XW5nWKSAM91s-33">
@@ -49,7 +49,7 @@
           <mxGeometry x="410" y="620" width="370" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NW_FaFO-XW5nWKSAM91s-36" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="536" width="120" height="60" as="geometry" />
+          <mxGeometry x="720" y="540" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
