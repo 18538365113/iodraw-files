@@ -31,8 +31,8 @@
         <mxCell id="SKQVjgo8tFPxgH40vHhX-6" value="整数型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="90" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SKQVjgo8tFPxgH40vHhX-7" value="字符型（Char）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="155" width="70" height="30" as="geometry" />
+        <mxCell id="SKQVjgo8tFPxgH40vHhX-7" value="字符型（Char[2]），存放单个字符&#39;a&#39;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="155" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SKQVjgo8tFPxgH40vHhX-8" value="布尔型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="220" width="70" height="30" as="geometry" />
