@@ -34,7 +34,7 @@
         <mxCell id="SKQVjgo8tFPxgH40vHhX-7" value="浮点（小数）型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="155" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SKQVjgo8tFPxgH40vHhX-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SKQVjgo8tFPxgH40vHhX-8" value="布尔型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="220" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
