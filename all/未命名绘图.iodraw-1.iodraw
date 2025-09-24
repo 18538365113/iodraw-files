@@ -67,7 +67,7 @@
         <mxCell id="SKQVjgo8tFPxgH40vHhX-21" value="类（class）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="370" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SKQVjgo8tFPxgH40vHhX-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SKQVjgo8tFPxgH40vHhX-25" value="1.java数据类型分为两大类，基本数据类型、引用数据类型&lt;div&gt;2.基本数据类型有8中，byte、short、int、long、float、double、char、&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="560" width="470" height="60" as="geometry" />
         </mxCell>
       </root>
