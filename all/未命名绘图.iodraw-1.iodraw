@@ -49,6 +49,9 @@
         <mxCell id="SKQVjgo8tFPxgH40vHhX-14" value="数值类型，存放整数byte[1],short[2],int[4],long[8]" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="495" y="50" width="245" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="SKQVjgo8tFPxgH40vHhX-19" value="数值型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="100" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
