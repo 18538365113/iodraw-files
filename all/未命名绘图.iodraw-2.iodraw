@@ -51,8 +51,8 @@
         <mxCell id="NW_FaFO-XW5nWKSAM91s-36" value="byte n1 = 10;&lt;div&gt;short n2 = 10;&lt;/div&gt;&lt;div&gt;int n3 = 10;&lt;/div&gt;&lt;div&gt;long n4 = 10;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="540" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NW_FaFO-XW5nWKSAM91s-37" value="200" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="980" y="530" width="30" height="20" as="geometry" />
+        <mxCell id="NW_FaFO-XW5nWKSAM91s-37" value="10" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="530" width="10" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NW_FaFO-XW5nWKSAM91s-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NW_FaFO-XW5nWKSAM91s-38" target="NW_FaFO-XW5nWKSAM91s-37">
           <mxGeometry relative="1" as="geometry" />
