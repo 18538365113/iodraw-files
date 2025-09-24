@@ -10,6 +10,9 @@
         <mxCell id="nPxuYXjjofaONE-L8e39-2" value="内存-&amp;gt;大脑" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;strokeColor=#df1111;" vertex="1" parent="1">
           <mxGeometry x="172.5" y="320" width="165" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="nPxuYXjjofaONE-L8e39-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="195" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
