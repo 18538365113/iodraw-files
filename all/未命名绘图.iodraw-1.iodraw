@@ -28,7 +28,7 @@
         <mxCell id="SKQVjgo8tFPxgH40vHhX-3" value="引用数据类型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SKQVjgo8tFPxgH40vHhX-6" value="整数型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SKQVjgo8tFPxgH40vHhX-6" value="数值型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="90" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SKQVjgo8tFPxgH40vHhX-7" value="字符型（Char[2]），存放单个字符&#39;a&#39;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
