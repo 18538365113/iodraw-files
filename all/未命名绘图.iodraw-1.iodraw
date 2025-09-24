@@ -25,6 +25,12 @@
         <mxCell id="SKQVjgo8tFPxgH40vHhX-2" value="基本数据类型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="140" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="SKQVjgo8tFPxgH40vHhX-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SKQVjgo8tFPxgH40vHhX-3" target="SKQVjgo8tFPxgH40vHhX-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SKQVjgo8tFPxgH40vHhX-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SKQVjgo8tFPxgH40vHhX-3" target="SKQVjgo8tFPxgH40vHhX-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="SKQVjgo8tFPxgH40vHhX-3" value="引用数据类型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="420" width="120" height="60" as="geometry" />
         </mxCell>
