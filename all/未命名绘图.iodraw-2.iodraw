@@ -70,7 +70,7 @@
           <mxGeometry x="920" y="570" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NW_FaFO-XW5nWKSAM91s-44" value="200" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="980" y="550" width="30" height="20" as="geometry" />
+          <mxGeometry x="980" y="550" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NW_FaFO-XW5nWKSAM91s-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NW_FaFO-XW5nWKSAM91s-45" target="NW_FaFO-XW5nWKSAM91s-44">
           <mxGeometry relative="1" as="geometry" />
@@ -79,7 +79,7 @@
           <mxGeometry x="920" y="550" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NW_FaFO-XW5nWKSAM91s-46" value="200" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="980" y="590" width="30" height="20" as="geometry" />
+          <mxGeometry x="980" y="590" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NW_FaFO-XW5nWKSAM91s-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NW_FaFO-XW5nWKSAM91s-47" target="NW_FaFO-XW5nWKSAM91s-46">
           <mxGeometry relative="1" as="geometry" />
