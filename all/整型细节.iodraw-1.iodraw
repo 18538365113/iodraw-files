@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2G_3g1faM_-5BqbTKAd_-1" value="JDK8，11" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="140" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2G_3g1faM_-5BqbTKAd_-2" value="java类的组织形式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="100" width="120" height="60" as="geometry" />
@@ -30,6 +30,9 @@
         </mxCell>
         <mxCell id="2G_3g1faM_-5BqbTKAd_-8" value="JDK8，11" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2G_3g1faM_-5BqbTKAd_-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.083;entryY=0.333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2G_3g1faM_-5BqbTKAd_-1" target="2G_3g1faM_-5BqbTKAd_-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
