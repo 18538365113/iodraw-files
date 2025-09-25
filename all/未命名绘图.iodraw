@@ -34,6 +34,15 @@
         <mxCell id="_IhiqCuB0CtXsb97CU5G-4" value="包1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="230" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="_IhiqCuB0CtXsb97CU5G-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_IhiqCuB0CtXsb97CU5G-8" target="_IhiqCuB0CtXsb97CU5G-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_IhiqCuB0CtXsb97CU5G-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_IhiqCuB0CtXsb97CU5G-8" target="_IhiqCuB0CtXsb97CU5G-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_IhiqCuB0CtXsb97CU5G-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="_IhiqCuB0CtXsb97CU5G-8" target="_IhiqCuB0CtXsb97CU5G-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_IhiqCuB0CtXsb97CU5G-8" value="类(...)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="220" width="120" height="60" as="geometry" />
         </mxCell>
