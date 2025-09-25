@@ -37,6 +37,9 @@
         <mxCell id="2G_3g1faM_-5BqbTKAd_-7" value="异常" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="470" y="360" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="2G_3g1faM_-5BqbTKAd_-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="2G_3g1faM_-5BqbTKAd_-8" target="2G_3g1faM_-5BqbTKAd_-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2G_3g1faM_-5BqbTKAd_-8" value="类" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="470" y="280" width="120" height="60" as="geometry" />
         </mxCell>
@@ -47,7 +50,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2G_3g1faM_-5BqbTKAd_-15" value="接口" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="480" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="640" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2G_3g1faM_-5BqbTKAd_-16" value="接口" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="640" y="290" width="120" height="60" as="geometry" />
