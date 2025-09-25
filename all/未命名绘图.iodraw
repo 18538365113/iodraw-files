@@ -41,7 +41,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_IhiqCuB0CtXsb97CU5G-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="_IhiqCuB0CtXsb97CU5G-8" target="_IhiqCuB0CtXsb97CU5G-17">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="630" y="250" />
+              <mxPoint x="630" y="380" />
+              <mxPoint x="670" y="380" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="_IhiqCuB0CtXsb97CU5G-8" value="类(...)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="220" width="120" height="60" as="geometry" />
@@ -61,8 +67,8 @@
         <mxCell id="_IhiqCuB0CtXsb97CU5G-19" value="字段..." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_IhiqCuB0CtXsb97CU5G-23" value="java类的组织形式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="305" y="50" width="120" height="60" as="geometry" />
+        <mxCell id="_IhiqCuB0CtXsb97CU5G-23" value="java类的组织形式" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="305" y="50" width="195" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
