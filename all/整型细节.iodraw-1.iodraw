@@ -7,6 +7,9 @@
         <mxCell id="2G_3g1faM_-5BqbTKAd_-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2G_3g1faM_-5BqbTKAd_-1" target="2G_3g1faM_-5BqbTKAd_-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="2G_3g1faM_-5BqbTKAd_-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="2G_3g1faM_-5BqbTKAd_-1" target="2G_3g1faM_-5BqbTKAd_-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2G_3g1faM_-5BqbTKAd_-1" value="JDK8，11" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="380" width="120" height="60" as="geometry" />
         </mxCell>
@@ -22,6 +25,9 @@
         <mxCell id="2G_3g1faM_-5BqbTKAd_-5" value="JDK8，11" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="390" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="2G_3g1faM_-5BqbTKAd_-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="2G_3g1faM_-5BqbTKAd_-6" target="2G_3g1faM_-5BqbTKAd_-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2G_3g1faM_-5BqbTKAd_-6" value="JDK8，11" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="290" width="120" height="60" as="geometry" />
         </mxCell>
@@ -32,6 +38,9 @@
           <mxGeometry x="470" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2G_3g1faM_-5BqbTKAd_-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.083;entryY=0.333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2G_3g1faM_-5BqbTKAd_-1" target="2G_3g1faM_-5BqbTKAd_-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2G_3g1faM_-5BqbTKAd_-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.083;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2G_3g1faM_-5BqbTKAd_-6" target="2G_3g1faM_-5BqbTKAd_-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
