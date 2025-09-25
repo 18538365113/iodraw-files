@@ -37,12 +37,6 @@
         <mxCell id="SKQVjgo8tFPxgH40vHhX-3" value="引用数据类型" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="250" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SKQVjgo8tFPxgH40vHhX-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="SKQVjgo8tFPxgH40vHhX-6" target="SKQVjgo8tFPxgH40vHhX-14" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="SKQVjgo8tFPxgH40vHhX-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="SKQVjgo8tFPxgH40vHhX-6" target="SKQVjgo8tFPxgH40vHhX-13" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="SKQVjgo8tFPxgH40vHhX-6" value="数值型" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="410" y="90" width="70" height="30" as="geometry" />
         </mxCell>
