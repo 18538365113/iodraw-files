@@ -57,7 +57,7 @@
         <mxCell id="porkMgDo0r-SdtMBMPTc-2" value="n1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="436" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="porkMgDo0r-SdtMBMPTc-3" value="200" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="porkMgDo0r-SdtMBMPTc-3" value="Q" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="480" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="porkMgDo0r-SdtMBMPTc-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="porkMgDo0r-SdtMBMPTc-4" target="porkMgDo0r-SdtMBMPTc-3">
@@ -66,7 +66,7 @@
         <mxCell id="porkMgDo0r-SdtMBMPTc-4" value="z" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="480" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="porkMgDo0r-SdtMBMPTc-8" value="整型变量示例：&lt;div&gt;double n1 = 3.14;&lt;/div&gt;&lt;div&gt;char z = &#39;Q&#39;;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="porkMgDo0r-SdtMBMPTc-8" value="数据类型-示例：&lt;div&gt;double n1 = 3.14;&lt;/div&gt;&lt;div&gt;char z = &#39;Q&#39;;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="430" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
