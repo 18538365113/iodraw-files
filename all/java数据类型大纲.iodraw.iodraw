@@ -67,7 +67,7 @@
         <mxCell id="SKQVjgo8tFPxgH40vHhX-21" value="类（class）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="420" y="372" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SKQVjgo8tFPxgH40vHhX-25" value="1.java数据类型分为两大类，基本数据类型、引用数据类型&lt;div&gt;2.基本数据类型有8中，byte、short、int、long、float、double、char、boolean&lt;/div&gt;&lt;div&gt;3.引用类型【类、接口、数组】&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="SKQVjgo8tFPxgH40vHhX-25" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1.java数据类型分为两大类，基本数据类型、引用数据类型&lt;/span&gt;&lt;/div&gt;&lt;div&gt;2.基本数据类型有8中，byte、short、int、long、float、double、char、boolean&lt;/div&gt;&lt;div&gt;3.引用类型【类、接口、数组】&lt;/div&gt;&lt;div&gt;（以上内容必须背下来）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="190" y="560" width="470" height="60" as="geometry" />
         </mxCell>
       </root>
