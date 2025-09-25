@@ -190,14 +190,11 @@
         <mxCell id="h3yJbcZDhUIn80G2oRrr-56" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="460" y="300.01000000000005" width="5.15" height="5.15" as="geometry" />
         </mxCell>
-        <mxCell id="h3yJbcZDhUIn80G2oRrr-65" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="480.91" y="314.85" width="10" height="10" as="geometry" />
-        </mxCell>
         <mxCell id="h3yJbcZDhUIn80G2oRrr-66" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="465.15" y="300.01000000000005" width="5.15" height="5.15" as="geometry" />
         </mxCell>
         <mxCell id="h3yJbcZDhUIn80G2oRrr-67" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="480" y="320.01000000000005" width="5.15" height="5.15" as="geometry" />
+          <mxGeometry x="470.3" y="300.01000000000005" width="5.15" height="5.15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
