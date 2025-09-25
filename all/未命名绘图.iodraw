@@ -211,29 +211,8 @@
         <mxCell id="h3yJbcZDhUIn80G2oRrr-72" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="498.82" y="300.01000000000005" width="5.15" height="5.15" as="geometry" />
         </mxCell>
-        <mxCell id="h3yJbcZDhUIn80G2oRrr-81" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="480" y="320.01000000000005" width="5.15" height="5.15" as="geometry" />
-        </mxCell>
-        <mxCell id="h3yJbcZDhUIn80G2oRrr-82" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="485.15" y="320.01000000000005" width="5.15" height="5.15" as="geometry" />
-        </mxCell>
-        <mxCell id="h3yJbcZDhUIn80G2oRrr-83" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="490.3" y="320.01000000000005" width="5.15" height="5.15" as="geometry" />
-        </mxCell>
-        <mxCell id="h3yJbcZDhUIn80G2oRrr-84" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="495.82" y="320.01000000000005" width="5.15" height="5.15" as="geometry" />
-        </mxCell>
-        <mxCell id="h3yJbcZDhUIn80G2oRrr-85" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="500.97" y="320.01000000000005" width="5.15" height="5.15" as="geometry" />
-        </mxCell>
-        <mxCell id="h3yJbcZDhUIn80G2oRrr-86" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="507.16" y="320.01000000000005" width="5.15" height="5.15" as="geometry" />
-        </mxCell>
-        <mxCell id="h3yJbcZDhUIn80G2oRrr-87" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="512.49" y="320.01000000000005" width="5.15" height="5.15" as="geometry" />
-        </mxCell>
-        <mxCell id="h3yJbcZDhUIn80G2oRrr-88" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="518.8199999999999" y="320.01000000000005" width="5.15" height="5.15" as="geometry" />
+        <mxCell id="h3yJbcZDhUIn80G2oRrr-98" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="508.82" y="310.01000000000005" width="5.15" height="5.15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
