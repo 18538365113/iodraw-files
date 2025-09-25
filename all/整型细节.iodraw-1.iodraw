@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_hmgfc6Y4EBh6-igdL-7-1" value="byte n1 = 3&lt;div&gt;short n2 = 3&lt;/div&gt;&lt;div&gt;思考题：long类型，占都少个字节？&lt;/div&gt;&lt;div&gt;long n3 = 3 (8个字节*8bit=64bit)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="190" y="306.92" width="120" height="60" as="geometry" />
+          <mxGeometry x="90" y="310" width="220" height="56.92" as="geometry" />
         </mxCell>
         <mxCell id="_hmgfc6Y4EBh6-igdL-7-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="419.53" y="210" width="250" height="240" as="geometry" />
@@ -234,6 +234,9 @@
         </mxCell>
         <mxCell id="h3yJbcZDhUIn80G2oRrr-105" value="1" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="630.91" y="350.49000000000007" width="5.15" height="5.15" as="geometry" />
+        </mxCell>
+        <mxCell id="dfwSdD-eeCBcsT6SAoQR-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="110" width="185" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
