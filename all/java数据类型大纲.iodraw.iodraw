@@ -49,7 +49,7 @@
         <mxCell id="SKQVjgo8tFPxgH40vHhX-7" value="字符型（Char[2]），存放单个字符 &#39;a&#39;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="410" y="155" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SKQVjgo8tFPxgH40vHhX-8" value="布尔型(boolean[1]),存放true,false" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="SKQVjgo8tFPxgH40vHhX-8" value="布尔型（boolean[1]）,存放true,false" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="410" y="220" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SKQVjgo8tFPxgH40vHhX-13" value="浮点（小数）类型（float[4],double[8]）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
