@@ -5,10 +5,22 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="2G_3g1faM_-5BqbTKAd_-1" value="JDK8，11" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="150" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2G_3g1faM_-5BqbTKAd_-2" value="java类的组织形式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2G_3g1faM_-5BqbTKAd_-3" value="JDK8，11" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2G_3g1faM_-5BqbTKAd_-4" value="JDK8，11" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2G_3g1faM_-5BqbTKAd_-5" value="JDK8，11" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2G_3g1faM_-5BqbTKAd_-6" value="JDK8，11" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="290" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
