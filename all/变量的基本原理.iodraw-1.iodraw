@@ -66,8 +66,8 @@
         <mxCell id="porkMgDo0r-SdtMBMPTc-4" value="b" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="480" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="porkMgDo0r-SdtMBMPTc-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="450" width="120" height="60" as="geometry" />
+        <mxCell id="porkMgDo0r-SdtMBMPTc-8" value="整型变量示例：&lt;div&gt;int a = 100;&lt;/div&gt;&lt;div&gt;int b = 200;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="430" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
