@@ -13,8 +13,8 @@
         <mxCell id="_IhiqCuB0CtXsb97CU5G-3" value="JDK8,11" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_IhiqCuB0CtXsb97CU5G-4" value="JDK8,11" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="230" width="120" height="60" as="geometry" />
+        <mxCell id="_IhiqCuB0CtXsb97CU5G-4" value="包1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="230" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
