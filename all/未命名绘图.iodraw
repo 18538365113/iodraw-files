@@ -8,7 +8,7 @@
           <mxGeometry x="60" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_hmgfc6Y4EBh6-igdL-7-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="210" width="250" height="240" as="geometry" />
+          <mxGeometry x="310" y="210" width="250" height="240" as="geometry" />
         </mxCell>
         <mxCell id="_hmgfc6Y4EBh6-igdL-7-42" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="460" y="250" width="80" height="10" as="geometry" />
@@ -36,6 +36,9 @@
         </mxCell>
         <mxCell id="_hmgfc6Y4EBh6-igdL-7-50" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="_hmgfc6Y4EBh6-igdL-7-42">
           <mxGeometry x="70" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="_hmgfc6Y4EBh6-igdL-7-51" value="" style="shape=stencil(lVjLctswDPwaXzF8AuQ5Tf8jM3FqT9M447ivvy9YjxQDkjaTmyxjCRJYAEvt8t3b4eF1v0vh7XI+fd//Pj5eDrv8ZZfS8eWwPx8v+rTL97t893Q677+dTz9fHq+/Xx+G5Xj6cfo1VvhzxRUKbYBS+Ht9wZFi+v/m69X++fhyY58odmNfI4W+bR8oBGOfhThu20fK2dinTAXsh6nZ9aNQDmD9SC1aAE9HWgcIJbGATKmACBXqdkuNBDhInUqxKSCWbfusAanGvhCD9UugalM8h2DdvpKwsQ/UQAaqrh+dfUb2hVpx9gFkjAN1lwASEB8u/rxMCa3fKNt4xkQBJFgSseVo7JQqAGhCrYexJZCCph6SrRoFgBw3pu44wVQBoGvSbBKqUMwAkEksq5mnvKwDmq/MFqdTrQO6P3TTTDKozLBoLk2oN+iiW6r2OJF3C+C40QssZj11tv2xCxUUJpna7QzoU8NZB1RiV84BF5BuOS1cQHIkau4QbRoT6wDtKLYixi5RrnXIuLgmKsiDNgFHjoZTrR5s12iVKoqSnsEBEmXkIfmak44rokw1PAMaZt+iEysggooYZFp46KAzaV7dLGlhKtvNgrAeWv6ognziGI6fAXDkC1MRbgGqA2ivwocWRz5t0Dis1VJjLIGowZ58usmGAMV31wFAZ8iUo98SUgHK1lj8oStq+J8FNF7Qu0NpOJhjoyQBziDlZrWJU20ggK0iflJXbW0g0xKnqM9zNFMAABbfNXRSIw+64+S0QIUlupRLqn86kCd1ESUFMACoVAjiAQWEtagAW2wJkS9X3+5Vs0awpazd29J7KCYwUPTv7u4N2trQPaP7i4/q6gTIp6Kw2GY8NBmoafHS4V24r7PbB7UUOHRj8OWjVIE3mVnHzwCe8rIJcB4a1K0KEJu2QXcUVG3tNqisbQfNHy80WHs9EhqeeHo7QLJB5Zs9MVc4rXQy2JCqKo5g/flqd2OP7hrV9yPdD7oOV68m9bxoeJbF/mftt2H/uc8FH9vrw/u3iafj8/P108bt//5bhr66fgfJ9/8A);lineShape=1;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="450.4741842219355" y="226.84778775964583" width="61.77327725113332" height="25.703855726114853" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
